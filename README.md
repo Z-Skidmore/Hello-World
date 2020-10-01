@@ -1,2 +1,4 @@
 # Hello-World
-A place for me
+A new coder trying to get the hang of python
+Interested in codings aplicability for policy research.
+
